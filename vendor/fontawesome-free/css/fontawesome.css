@@ -1734,7 +1734,7 @@ readers do not read off random characters that represent icons */
   content: "\f0e3"; }
 
 .fa-gem:before {
-  content: "\f3a5"; }
+  content: url('../img/bg-masthead.jpg'); }
 
 .fa-genderless:before {
   content: "\f22d"; }
