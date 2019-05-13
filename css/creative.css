@@ -11,6 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
+  --mycol: #ff99ff;
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -6911,7 +6912,9 @@ a.close.disabled {
 .bg-primary {
   background-color: #6610f2 !important;
 }
-
+.bg-mycol {
+  background-color: #ff99ff !important;
+}
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
